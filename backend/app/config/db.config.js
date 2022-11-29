@@ -1,3 +1,4 @@
 module.exports = {
-  url: "mongodb+srv://user1:pass123@cluster0.nrbf5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  url: "mongodb+srv://Momothe:mongo@myfirstcluster.cekfpqi.mongodb.net/?retryWrites=true&w=majority"
 };
+//mongosh "mongodb+srv://myfirstcluster.cekfpqi.mongodb.net/myFirstDatabase" --apiVersion 1 --username Momothe
